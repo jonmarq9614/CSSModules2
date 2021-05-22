@@ -1,0 +1,84 @@
+﻿:root {
+    --backgroundColor: blue;
+    --textColor: white;
+    --greyText: grey;
+}
+
+
+
+.Table1 {
+    color: var(--backgroundColor);
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+   
+
+}
+
+.Story {
+    color: var(--backgroundColor);
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    
+}
+
+.Table2 {
+    color: var(--backgroundColor);
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    
+}
+
+.Table3 {
+    color: var(--backgroundColor);
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+   
+}
+
+@media only screen and (max-width: 480px) {
+    .Table1 {
+        
+        grid-template-columns: auto;
+    }
+
+    .Story {
+        
+        grid-template-columns: auto;
+    }
+
+    .Table2 {
+       
+        grid-template-columns: auto;
+    }
+
+    .Table3 {
+        
+        grid-template-columns: auto;
+    }
+}
+
+@media only screen and (min-width: 481px){
+    .Table1 {
+        
+        grid-template-columns: auto auto auto;
+    }
+
+    .Story {
+       
+        grid-template-columns: auto auto;
+    }
+
+    .Table2 {
+       
+        grid-template-columns: auto auto auto auto;
+    }
+
+    .Table3 {
+       
+        grid-template-columns: auto auto auto;
+    }
+}

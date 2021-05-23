@@ -4,6 +4,15 @@
     --greyText: grey;
 }
 
+#LogIn {
+    background-color: var(--backgroundColor);
+    color: var(--textColor);
+}
+
+#SignUp {
+    background-color: var(--backgroundColor);
+    color: var(--textColor);
+}
 
 
 .Table1 {

@@ -1,0 +1,106 @@
+﻿:root {
+    --backgroundColor: blue;
+    --textColor: white;
+    --greyText: grey;
+}
+
+
+#MyDiv{
+    color: black;
+}
+
+.MyInnerDiv1 {
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.MyInnerDiv2 {
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+
+.MyInnerDiv3 {
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.MyInnerDiv4 {
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.MyInnerDiv5 {
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.MyInnerDiv6 {
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+#SignUpButton{
+    background-color: var(--backgroundColor);
+    color: var(--textColor);
+}
+
+@media only screen and (max-width: 480px){
+
+    .MyInnerDiv1 {
+        grid-template-columns: auto;
+    }
+
+    .MyInnerDiv2 {
+        grid-template-columns: auto;
+    }
+
+    .MyInnerDiv3 {
+        grid-template-columns: auto;
+    }
+
+    .MyInnerDiv4 {
+        grid-template-columns: auto;
+    }
+
+    .MyInnerDiv5 {
+        grid-template-columns: auto;
+    }
+
+    .MyInnerDiv6 {
+        grid-template-columns: auto;
+    }
+}
+
+@media only screen and (min-width: 481px) {
+
+    .MyInnerDiv1 {
+        grid-template-columns: auto auto;
+    }
+
+    .MyInnerDiv2 {
+        grid-template-columns: auto auto;
+    }
+
+    .MyInnerDiv3 {
+        grid-template-columns: auto auto;
+    }
+
+    .MyInnerDiv4 {
+        grid-template-columns: auto auto;
+    }
+
+    .MyInnerDiv5 {
+        grid-template-columns: auto auto;
+    }
+
+    .MyInnerDiv6 {
+        grid-template-columns: auto;
+    }
+}
+ 

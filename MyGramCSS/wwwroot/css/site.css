@@ -75,7 +75,6 @@ body {
     --textColor: white;
     --greyText: grey;
 }
-
 #LogIn {
     background-color: var(--backgroundColor);
     color: var(--textColor);

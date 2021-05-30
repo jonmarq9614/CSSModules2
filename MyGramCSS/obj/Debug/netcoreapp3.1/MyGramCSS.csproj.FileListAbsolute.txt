@@ -351,3 +351,4 @@
 /Users/jonathanmarquez/Desktop/CSSClass/MyGramCSS/MyGramCSS/obj/Debug/netcoreapp3.1/MyGramCSS.pdb
 /Users/jonathanmarquez/Desktop/CSSClass/MyGramCSS/MyGramCSS/obj/Debug/netcoreapp3.1/MyGramCSS.genruntimeconfig.cache
 /Users/jonathanmarquez/Desktop/CSSClass/MyGramCSS/MyGramCSS/obj/Debug/netcoreapp3.1/Razor/Views/Home/SignUp.cshtml.g.cs
+/Users/jonathanmarquez/Desktop/CSSClass/MyGramCSS/MyGramCSS/obj/Debug/netcoreapp3.1/Razor/Views/Home/Calendar.cshtml.g.cs

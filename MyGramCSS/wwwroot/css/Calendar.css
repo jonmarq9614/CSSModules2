@@ -1,0 +1,31 @@
+﻿:root{
+    --whiteColor: white;
+    --greyColor: grey;
+    --myBlueColor: dodgerblue;
+    --redColor: red;
+    --myColor: #e3e3e3;
+}
+
+
+.Calendar{
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto;
+    grid-row-gap: 10px;
+    grid-column-gap: 10px;
+}
+
+.Week {
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto;
+    grid-row-gap: 20px;
+    grid-column-gap: 20px;
+    
+}
+#Day{
+    background-color: var(--redColor);
+    color: var(--whiteColor);
+}

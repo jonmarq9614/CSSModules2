@@ -1,10 +1,13 @@
 ﻿<Properties StartupConfiguration="{CB0ACF9E-750B-4BB5-B5AD-14B4E53EB013}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MyGramCSS/wwwroot/css/SignUp.css">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyGramCSS/wwwroot/css/Calendar.css">
     <Files>
-      <File FileName="MyGramCSS/Views/Home/Index.cshtml" Line="9" Column="90" />
+      <File FileName="MyGramCSS/Views/Home/Index.cshtml" Line="3" Column="2" />
       <File FileName="MyGramCSS/Views/Home/SignUp.cshtml" Line="60" Column="11" />
       <File FileName="MyGramCSS/wwwroot/css/SignUp.css" Line="98" Column="19" />
-      <File FileName="MyGramCSS/Views/Shared/_Layout.cshtml" Line="32" Column="9" />
+      <File FileName="MyGramCSS/Views/Shared/_Layout.cshtml" Line="8" Column="5" />
+      <File FileName="MyGramCSS/Controllers/HomeController.cs" Line="35" Column="1" />
+      <File FileName="MyGramCSS/Views/Home/Calendar.cshtml" Line="20" Column="12" />
+      <File FileName="MyGramCSS/wwwroot/css/Calendar.css" Line="30" Column="30" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -18,7 +21,7 @@
               </Node>
               <Node name="wwwroot" expanded="True">
                 <Node name="css" expanded="True">
-                  <Node name="SignUp.css" selected="True" />
+                  <Node name="Calendar.css" selected="True" />
                 </Node>
               </Node>
             </Node>

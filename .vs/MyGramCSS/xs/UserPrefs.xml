@@ -1,10 +1,10 @@
 ﻿<Properties StartupConfiguration="{CB0ACF9E-750B-4BB5-B5AD-14B4E53EB013}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MyGramCSS/wwwroot/css/index.css">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyGramCSS/Views/Home/Index.cshtml">
     <Files>
-      <File FileName="MyGramCSS/Views/Home/Index.cshtml" Line="51" Column="8" />
-      <File FileName="MyGramCSS/wwwroot/css/index.css" Line="20" Column="2" />
-      <File FileName="MyGramCSS/Views/Shared/_Layout.cshtml" Line="8" Column="5" />
-      <File FileName="MyGramCSS/Controllers/HomeController.cs" Line="35" Column="1" />
+      <File FileName="MyGramCSS/Views/Home/Index.cshtml" Line="100" Column="7" />
+      <File FileName="MyGramCSS/wwwroot/css/index.css" Line="24" Column="19" />
+      <File FileName="MyGramCSS/Views/Shared/_Layout.cshtml" Line="39" Column="1" />
+      <File FileName="MyGramCSS/Controllers/HomeController.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,13 +13,13 @@
             <Node name="MyGramCSS" expanded="True">
               <Node name="Controllers" expanded="True" />
               <Node name="Views" expanded="True">
-                <Node name="Home" expanded="True" />
+                <Node name="Home" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
                 <Node name="Shared" expanded="True" />
               </Node>
               <Node name="wwwroot" expanded="True">
-                <Node name="css" expanded="True">
-                  <Node name="index.css" selected="True" />
-                </Node>
+                <Node name="css" expanded="True" />
               </Node>
             </Node>
           </Node>

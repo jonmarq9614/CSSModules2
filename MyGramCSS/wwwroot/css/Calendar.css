@@ -7,7 +7,7 @@
 }
 
 
-.Calendar{
+/*.Calendar{
     margin-left: auto;
     margin-right: auto;
     display: grid;
@@ -24,7 +24,7 @@
     grid-row-gap: 20px;
     grid-column-gap: 20px;
     
-}
+}*/
 #Day{
     background-color: var(--redColor);
     color: var(--whiteColor);
